@@ -65,5 +65,6 @@ This project is licensed under MIT License.
 
 ## Acknowledgements
 Special thanks to all resources.
+
 Python Documentation
 Tkinter Documentation
