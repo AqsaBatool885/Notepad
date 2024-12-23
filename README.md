@@ -40,7 +40,9 @@ Access Edit Menu for Cut, Copy, and Paste functionalities.
 
 ## Ensure Python is Installed:
 git clone https://github.com/AqsaBatool885/Notepad.git
+
 cd Notepad
+
 Check Python version:
 
 python --version
@@ -59,7 +61,14 @@ git commit -m "Add new feature"
 ## push to branch:
 git push origin feature-branch
 Submit pull request.
-
+## Contact Information:
+## Mobile No. and Email:
+03120758329
+batoolaqsa202@gmail.com
+## Mobile No
+03484741161
+## Mobile No:
+03033703468
 ## License
 This project is licensed under MIT License.
 
