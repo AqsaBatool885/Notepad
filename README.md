@@ -62,13 +62,21 @@ git commit -m "Add new feature"
 git push origin feature-branch
 Submit pull request.
 ## Contact Information:
-## Mobile No. and Email:
+
 03120758329
-batoolaqsa202@gmail.com
-## Mobile No
+
 03484741161
-## Mobile No:
+
 03033703468
+## Authors:
+Laiba Noreen,Aqsa Batool,Mehak Mustafa
+## Email:
+laibanoreen162@gmail.com
+
+batoolaqsa202@gmail.com
+
+mehakch160@gmail.com
+
 ## License
 This project is licensed under MIT License.
 
